@@ -9,5 +9,6 @@ public class Main {
         //declare your variables
         var invoice = new Invoice("My invoice",new Date(), 123.45);
         System.out.println(invoice);
+        System.out.println("hello world");
     }
 }
